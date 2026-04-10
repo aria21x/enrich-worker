@@ -1,0 +1,5 @@
+{
+  "deploy": {
+    "startCommand": "python -m apps.enrich_worker.main"
+  }
+}
